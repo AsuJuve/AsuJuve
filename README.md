@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AsuJuve
+- 👀 I’m interested in Web and Videogames development  and Competitive Programming
+- 🌱 I’m currently learning Django and Javascript
+- 💞️ I’m looking to collaborate on Open Source projects
+- 📫 How to reach me: superjuve@outlook.es
