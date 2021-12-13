@@ -11,7 +11,19 @@ I am [Juventino Aguilar Correa](https://superjuve.notion.site/), an energetic an
 - 💼 Any freelance work or internship opportunity? contact me, [email](mailto:superjuve@outlook.es)
 
 ### Languages and Tools:
-
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F11E28?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7E018?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3472A3?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-004283?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 ![Java](https://img.shields.io/badge/-Java-asujuve?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-asujuve?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-asujuve?logo=Python&style=social)&nbsp;&nbsp;
