@@ -24,19 +24,6 @@ I am [Juventino Aguilar Correa](https://superjuve.notion.site/), an energetic an
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-![Java](https://img.shields.io/badge/-Java-asujuve?logo=java&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-asujuve?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-asujuve?logo=Python&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-asujuve?logo=cplusplus&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-asujuve?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-asujuve?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-asujuve?logo=bootstrap&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-asujuve?logo=react&style=social)&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/-Express-asujuve?logo=express&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-asujuve?logo=nodedotjs&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-asujuve?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-asujuve?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-asujuve?logo=github&style=social)&nbsp;&nbsp;
 
 ![AsuJuve Github Stats](https://github-readme-stats.vercel.app/api?username=asujuve&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asujuve&hide=TeX&layout=compact)
