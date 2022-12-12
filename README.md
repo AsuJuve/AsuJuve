@@ -1,13 +1,13 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/juventino-aguilar-correa-074018174/">
-  <img align="left" alt="Juventino's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Juventino's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+	
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=asujuve.asujuve)
 
-I am [Juventino Aguilar Correa](https://superjuve.notion.site/), an energetic and ambitious Full Stack Developer with a great passion for the software industry. I am currently studying a degree of Software Engineering at Universidad Autónoma de Zacatecas. I am an ICPC competitive programmer and a GDSC core team member of my school, willing to help the world through software putting my knowledge and experiences to use.
+I am [Juventino Aguilar Correa](https://superjuve.notion.site/), an energetic and ambitious __Full Stack Developer__ with a great passion for the software industry. I am currently studying a degree of Software Engineering at Universidad Autónoma de Zacatecas. I am an ICPC competitive programmer and a GDSC core team member of my school, willing to help the world through software putting my knowledge and experiences to use.
 
-- Currently I am taking courses about web development, like django and react.
+- 📚 Currently I am taking courses about web development, like django and react.
 - 💼 Any freelance work or internship opportunity? contact me, [email](mailto:superjuve@outlook.es)
 
 ### Languages and Tools:
