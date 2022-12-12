@@ -12,6 +12,9 @@ I am [Juventino Aguilar Correa](https://superjuve.notion.site/), an energetic an
 <a href="mailto:superjuve@outlook.es">
   <img alt="Juventino's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://superjuve.notion.site/">
+  <img alt="Juventino's Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
 ## Technologies with which I have worked
 ### 👨‍💻 Languages:
